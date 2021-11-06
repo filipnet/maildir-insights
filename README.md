@@ -9,7 +9,7 @@ Getting an overview of the usage of user mailboxes can be useful for many purpos
 
 to name but a few. 
 
-<img src="images/maildir-stats-output-example.png" alt="maildir-stats output example" width="100"/>
+<img src="images/maildir-stats-output-example.png" alt="maildir-stats output example" width="100%"/>
 
 I created this script to migrate a Dovecot dsync cluster node for validation after replication.
 
