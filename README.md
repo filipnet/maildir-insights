@@ -11,6 +11,17 @@ to name but a few.
 
 I created this script to migrate a Dovecot dsync cluster node for validation after replication.
 
+## FEATURES 
+
+As of today, the script creates a table of existing mailboxes in the stdout as followed:
+
+- Total size of the mailbox with all subdirectories
+- Total number of messages 
+- Number of subdirectories within the mailbox
+- Number of read e-mails
+- Number of unread e-mails
+- Number of deleted emails in the recycle bin
+
 ## INSTALLATION
 
 Change to the directory you would like to install the script e.g. your root home directory ```cd ~```
