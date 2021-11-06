@@ -13,10 +13,8 @@ I created this script to migrate a Dovecot dsync cluster node for validation aft
 
 ## INSTALLATION
 
-Change to the directory you would like to install the script
-```
-cd ~
-```
+Change to the directory you would like to install the script e.g. your root home directory ```cd ~```
+
 Download the maildir-stats script from Git repository
 ```
 git clone https://github.com/filipnet/maildir-stats.git
