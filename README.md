@@ -10,3 +10,19 @@ Getting an overview of the usage of user mailboxes can be useful for many purpos
 to name but a few. 
 
 I created this script to migrate a Dovecot dsync cluster node for validation after replication.
+
+## INSTALLATION
+
+Change to the directory you would like to install the script
+```
+cd ~
+```
+Download the maildir-stats script from Git repository
+```
+git clone https://github.com/filipnet/maildir-stats.git
+```
+Give the script execution permissions
+```
+cd maildir-stats 
+chmod +x maildir-stats.sh
+```
