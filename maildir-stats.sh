@@ -30,6 +30,5 @@ do
 done
 
 TIME_DIFF=$(($(date +"%s")-${TIME_START}))
-#echo -e $TABLE
 echo -e $TABLE | column -t -s "|"
 echo -e "\nRuntime: $((${TIME_DIFF} / 60)) Minutes $((${TIME_DIFF} % 60)) Seconds\n"
