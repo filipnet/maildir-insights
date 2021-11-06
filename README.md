@@ -37,5 +37,4 @@ chmod +x maildir-stats.sh
 ```
 ## LICENSE
 
-maildir-stats and all individual scripts are under the BSD 3-Clause license unless explicitly noted otherwise. Please refer to the LICENSE
-
+maildir-stats and all individual scripts are under the BSD 3-Clause license unless explicitly noted otherwise. Please refer to the LICENSE.
