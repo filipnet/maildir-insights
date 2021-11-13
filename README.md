@@ -19,6 +19,9 @@ As of today, the script creates a table of existing mailboxes in the stdout as f
 
 - Total size of the mailbox with all subdirectories
 - Total number of messages 
+- Total number of messages in New
+- Total number of messages in Cur
+- Total number of messages in Tmp
 - Number of subdirectories within the mailbox
 - Number of read e-mails
 - Number of unread e-mails
