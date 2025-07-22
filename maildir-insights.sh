@@ -1,8 +1,8 @@
 #!/bin/bash
 #
-# Script Name   : maildir-stats.sh
+# Script Name   : maildir-insights.sh
 # Description   : Useful statistical output of Maildir user mailboxes
-# Author        : https://github.com/filipnet/maildir-stats
+# Author        : https://github.com/filipnet/maildir-insights
 # License       : BSD 3-Clause "New" or "Revised" License
 # =======================================================================================
 
